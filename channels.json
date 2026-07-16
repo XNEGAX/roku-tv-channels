@@ -1,88 +1,1434 @@
 [
-  { "name": "TVN", "url": "http://138.121.15.230:9002/TVN/index.m3u8" },
-  { "name": "Mega", "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8" },
-  { "name": "Canal 13", "url": "http://45.162.193.35/CANAL13_HD/index.m3u8" },
-  { "name": "Chilevisión", "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8" },
-  { "name": "La Red", "url": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8" },
-  { "name": "TV+", "url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8" },
-  { "name": "Telecanal", "url": "http://45.232.210.1:8029/play/a00s/index.m3u8" },
-  { "name": "24 Horas", "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8" },
-  { "name": "CNN Chile", "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8" },
-  { "name": "TV Chile", "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8" },
-  { "name": "UCV TV", "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8" },
-  { "name": "UChile TV", "url": "https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8" },
-  { "name": "TVU (Concepción)", "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8" },
-  { "name": "Santiago TV", "url": "https://stv4.janus.cl/playlist/stream.m3u8" },
-  { "name": "ADN TV", "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8" },
-  { "name": "Cooperativa TV", "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8" },
-  { "name": "Zona Latina", "url": "http://45.162.193.35/ZONALATINA/index.m3u8" },
-  { "name": "Via X", "url": "http://45.170.130.224:8000/play/a025/index.m3u8" },
-  { "name": "13C", "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8" },
-  { "name": "13 Kids", "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8" },
-  { "name": "13 Teleseries", "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8" },
-  { "name": "ETC TV", "url": "http://45.162.193.35/ETCTV/index.m3u8" },
-  { "name": "Teletrak", "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8" },
-  { "name": "Wapp TV", "url": "https://stream.wapptv.cl/video/index.m3u8" },
-  { "name": "Pucón TV", "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8" },
-
-  { "name": "AMC", "url": "http://45.162.193.35/AMC/index.m3u8" },
-  { "name": "A&E", "url": "http://138.121.15.230:9002/A&E/index.m3u8" },
-  { "name": "AXN", "url": "http://138.121.15.230:9002/AXN/index.m3u8" },
-  { "name": "FX", "url": "http://138.121.15.230:9002/FX/index.m3u8" },
-  { "name": "Star Channel", "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8" },
-  { "name": "Sony Channel", "url": "http://138.121.15.230:9002/SONY/index.m3u8" },
-  { "name": "Comedy Central", "url": "http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8" },
-  { "name": "E! Entertainment", "url": "http://200.91.32.158:8080/entertainment/index.m3u8" },
-  { "name": "Cinecanal", "url": "http://45.162.193.35/CINECANAL/index.m3u8" },
-  { "name": "Cine Latino", "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8" },
-  { "name": "De Película", "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8" },
-  { "name": "Golden", "url": "http://177.234.249.135:8888/Golden/index.m3u8" },
-  { "name": "Golden Edge", "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8" },
-  { "name": "DreamWorks", "url": "http://138.121.15.230:9002/DREAMWORKS/index.m3u8" },
-  { "name": "Nat Geo", "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8" },
-  { "name": "Docu.", "url": "http://45.162.193.35/DOCU/index.m3u8" },
-  { "name": "Disney Channel", "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8" },
-  { "name": "Disney Jr.", "url": "http://200.91.32.158:8080/disneyjr/index.m3u8" },
-  { "name": "Univision", "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8" },
-
-  { "name": "Telefe (AR)", "url": "http://200.91.32.158:8080/telefehd/index.m3u8" },
-  { "name": "El Trece (AR)", "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8" },
-  { "name": "Cine.Ar (AR)", "url": "http://200.91.32.158:8080/cinear/index.m3u8" },
-  { "name": "Volver (AR)", "url": "http://200.91.32.158:8080/volver/index.m3u8" },
-  { "name": "Europa Europa (AR)", "url": "http://200.91.32.158:8080/europa/index.m3u8" },
-
-  { "name": "Caracol TV (CO)", "url": "http://138.121.15.230:9002/CARACOL/index.m3u8" },
-  { "name": "RCN (CO)", "url": "http://138.121.15.230:9002/RCN/index.m3u8" },
-  { "name": "Canal 1 (CO)", "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8" },
-  { "name": "Citytv (CO)", "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8" },
-  { "name": "Señal Colombia (CO)", "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8" },
-  { "name": "Win Sports (CO)", "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8" },
-  { "name": "NTN24 (CO)", "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8" },
-  { "name": "Cablenoticias (CO)", "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8" },
-  { "name": "Rumba TV (CO)", "url": "http://45.162.193.35/RUMBATV/index.m3u8" },
-
-  { "name": "Latina (PE)", "url": "http://45.171.108.253:8888/LATINA/index.m3u8" },
-  { "name": "América TV (PE)", "url": "http://45.171.108.253:8888/AMERICA/index.m3u8" },
-  { "name": "Panamericana (PE)", "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8" },
-  { "name": "TV Perú (PE)", "url": "http://181.119.93.83:8000/play/a25t/index.m3u8" },
-  { "name": "ATV+ (PE)", "url": "http://45.171.108.253:8888/ATV/index.m3u8" },
-  { "name": "Willax TV (PE)", "url": "http://187.102.210.46/WILLAX/index.m3u8" },
-
-  { "name": "TVE Internacional (ES)", "url": "http://200.91.32.158:8080/tve/index.m3u8" },
-  { "name": "Antena 3 Int (ES)", "url": "http://177.10.184.193:8000/play/a06a/index.m3u8" },
-  { "name": "Atrescine (ES)", "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8" },
-
-  { "name": "Las Estrellas (MX)", "url": "http://177.234.249.135:8888/LasEstrellas/index.m3u8" },
-  { "name": "Azteca 7 (MX)", "url": "http://45.189.62.33:8002/play/a0fm/index.m3u8" },
-  { "name": "Azteca Uno (MX)", "url": "http://45.189.62.33:8002/play/a0cc/index.m3u8" },
-  { "name": "Canal 5 (MX)", "url": "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8" },
-  { "name": "Imagen TV (MX)", "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8" },
-  { "name": "ADN 40 (MX)", "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8" },
-  { "name": "Once México (MX)", "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8" },
-  { "name": "TV UNAM (MX)", "url": "http://177.245.131.133:8080/UNAM/index.m3u8" },
-  { "name": "De Película (MX)", "url": "http://181.119.93.83:8000/play/a1jw/index.m3u8" },
-  { "name": "Tlnovelas (MX)", "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8" },
-  { "name": "Distrito Comedia (MX)", "url": "http://177.234.249.135:8888/DistritoComedia/index.m3u8" },
-  { "name": "Justicia TV (MX)", "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8" }
-
+    {
+        "name": "12TV Alicante (720p)",
+        "url": "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8"
+    },
+    {
+        "name": "13 Festival (1080p)",
+        "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+    },
+    {
+        "name": "13 Realities (1080p)",
+        "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+    },
+    {
+        "name": "13 Telenovelas",
+        "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    },
+    {
+        "name": "13C",
+        "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    },
+    {
+        "name": "13C (1080p)",
+        "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    },
+    {
+        "name": "24 Horas",
+        "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8"
+    },
+    {
+        "name": "28 kanala",
+        "url": "https://streaming.28kanala.eus/hls/z.m3u8"
+    },
+    {
+        "name": "3Cat Càmeres del temps (1080p)",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+    },
+    {
+        "name": "3Cat Plats bruts (1080p)",
+        "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+    },
+    {
+        "name": "3CatInfo (1080p)",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+    },
+    {
+        "name": "7 TeleValencia (576p)",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+    },
+    {
+        "name": "8 La Marina TV (576p)",
+        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8"
+    },
+    {
+        "name": "A Punt (720p)",
+        "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8"
+    },
+    {
+        "name": "A&E",
+        "url": "http://138.121.15.230:9002/A&E/index.m3u8"
+    },
+    {
+        "name": "Activa TV (720p)",
+        "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+    },
+    {
+        "name": "ADN 40 (MX)",
+        "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+    },
+    {
+        "name": "ADN TV",
+        "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Aire de Santa Fe (AR) (1080p)",
+        "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Alacantí TV (576p) [Not 24/7]",
+        "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8"
+    },
+    {
+        "name": "Alcarria TV (576p) [Not 24/7]",
+        "url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8"
+    },
+    {
+        "name": "Alcarrizos TV (720p) [Not 24/7]",
+        "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
+    },
+    {
+        "name": "Alegre TV RD (720p) [Not 24/7]",
+        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
+    },
+    {
+        "name": "Alternativa TV (720p)",
+        "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8"
+    },
+    {
+        "name": "Altura TV (720p)",
+        "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8"
+    },
+    {
+        "name": "AMC",
+        "url": "http://45.162.193.35/AMC/index.m3u8"
+    },
+    {
+        "name": "AMC Latin America (1080p)",
+        "url": "http://45.171.108.253:8888/AMC/index.m3u8"
+    },
+    {
+        "name": "America Television (1080p)",
+        "url": "http://45.171.108.253:8888/AMERICA/index.m3u8"
+    },
+    {
+        "name": "America's Next Top Model",
+        "url": "https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8"
+    },
+    {
+        "name": "América TV (PE)",
+        "url": "http://45.171.108.253:8888/AMERICA/index.m3u8"
+    },
+    {
+        "name": "Ana y los 7",
+        "url": "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8"
+    },
+    {
+        "name": "ANC Television (720p)",
+        "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8"
+    },
+    {
+        "name": "Andes Television (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
+    },
+    {
+        "name": "Andina RTV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8"
+    },
+    {
+        "name": "Andromeda",
+        "url": "https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8"
+    },
+    {
+        "name": "Angel TV Spanish (720p)",
+        "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8"
+    },
+    {
+        "name": "Anime Zone TV (480p)",
+        "url": "http://animezonetv.net/hls/stream.m3u8"
+    },
+    {
+        "name": "Antena 21 (480p)",
+        "url": "https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8"
+    },
+    {
+        "name": "Antena 3 Internacional",
+        "url": "http://177.10.184.193:8000/play/a06a/index.m3u8"
+    },
+    {
+        "name": "Antena 7 (480p)",
+        "url": "https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8"
+    },
+    {
+        "name": "Antena SUR (720p)",
+        "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+    },
+    {
+        "name": "Antofagasta TV (ATV) (1080p)",
+        "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Arabí TV (1080p)",
+        "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
+    },
+    {
+        "name": "Archivos Forenses",
+        "url": "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8"
+    },
+    {
+        "name": "Atacama TV (Copiapó) (720p) [Not 24/7]",
+        "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+    },
+    {
+        "name": "Avatar: A lenda de Aang",
+        "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8"
+    },
+    {
+        "name": "AXN (1080p)",
+        "url": "http://cdn.haititivi.com/AXN/index.m3u8"
+    },
+    {
+        "name": "AXN Latin America (1080p)",
+        "url": "http://138.121.15.230:9002/AXN/index.m3u8"
+    },
+    {
+        "name": "Azteca Internacional (1080p)",
+        "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+    },
+    {
+        "name": "BabyTV Latin America (720p)",
+        "url": "http://138.121.15.230:9002/BABY-TV/index.m3u8"
+    },
+    {
+        "name": "BBC Drama (1080p)",
+        "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "BCN Gospel TV HD (720p)",
+        "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8"
+    },
+    {
+        "name": "Bob Esponja (720p)",
+        "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
+    },
+    {
+        "name": "Bon Dia TV (1080p)",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8"
+    },
+    {
+        "name": "Cablenoticias (CO)",
+        "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8"
+    },
+    {
+        "name": "Cadena Elite (720p) [Not 24/7]",
+        "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    },
+    {
+        "name": "Canal 1 (CO)",
+        "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8"
+    },
+    {
+        "name": "Canal 1 Mar Menor-Torre Pacheco (1080p)",
+        "url": "https://directo.tuwebtv.es/canal1.m3u8"
+    },
+    {
+        "name": "Canal 10 Empordà (360p) [Not 24/7]",
+        "url": "https://ventdelnord.tv:8080/escala/directe.m3u8"
+    },
+    {
+        "name": "Canal 13",
+        "url": "http://45.162.193.35/CANAL13_HD/index.m3u8"
+    },
+    {
+        "name": "Canal 2000 La Solana (720p) [Not 24/7]",
+        "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
+    },
+    {
+        "name": "Canal 24 Horas (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+    },
+    {
+        "name": "Canal 24 Horas Canarias (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+    },
+    {
+        "name": "Canal 24 Horas Catalunya (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+    },
+    {
+        "name": "Canal 3 Biar (480p) [Not 24/7]",
+        "url": "https://avantstreaming.es/hls/canal3.m3u8"
+    },
+    {
+        "name": "Canal 33 Madrid",
+        "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+    },
+    {
+        "name": "Canal 4 Catalunya (1080p)",
+        "url": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"
+    },
+    {
+        "name": "Canal 4 Mallorca (1080p)",
+        "url": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
+    },
+    {
+        "name": "Canal 4 Mancha Centro (720p) [Not 24/7]",
+        "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+    },
+    {
+        "name": "Canal 45 (576p)",
+        "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
+    },
+    {
+        "name": "Canal 5 (MX)",
+        "url": "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8"
+    },
+    {
+        "name": "Canal 56 (576p) [Not 24/7]",
+        "url": "https://videos.canal56.com/directe/stream/index.m3u8"
+    },
+    {
+        "name": "Canal Coín (1080p)",
+        "url": "https://canalcoin.garjim.es/hls/directo.m3u8"
+    },
+    {
+        "name": "Canal E (AR)",
+        "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8"
+    },
+    {
+        "name": "Canal Málaga RTV (720p) [Not 24/7]",
+        "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+    },
+    {
+        "name": "Canal Parlamento (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+    },
+    {
+        "name": "Canal San Roque (1080p) [Not 24/7]",
+        "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
+    },
+    {
+        "name": "Canal Sierra de Cádiz (1080p) [Not 24/7]",
+        "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8"
+    },
+    {
+        "name": "Canal Sur Andalucia (1080p)",
+        "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+    },
+    {
+        "name": "Canal Sur Andalucía 2 (720p)",
+        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+    },
+    {
+        "name": "Canal Sur Noticias",
+        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
+    },
+    {
+        "name": "Canal Taronja Comarques Centrals (1080p) [Not 24/7]",
+        "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8"
+    },
+    {
+        "name": "Canal Taronja Osona i Moianés (1080p) [Not 24/7]",
+        "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
+    },
+    {
+        "name": "Canal Terrassa (1080p)",
+        "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8"
+    },
+    {
+        "name": "Cazador de Homicidas",
+        "url": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8"
+    },
+    {
+        "name": "Cetelmón TV (404p)",
+        "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
+    },
+    {
+        "name": "Chilevisión",
+        "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Cine Latino",
+        "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8"
+    },
+    {
+        "name": "Cinecanal",
+        "url": "http://45.162.193.35/CINECANAL/index.m3u8"
+    },
+    {
+        "name": "Citytv (CO)",
+        "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8"
+    },
+    {
+        "name": "Ciudades Del Ocio TV (720p)",
+        "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
+    },
+    {
+        "name": "Clan TVE (1080p) [Geo-blocked]",
+        "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+    },
+    {
+        "name": "CMM TV HD (1080p)",
+        "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
+    },
+    {
+        "name": "Comedia a lo bestia de Pluto TV",
+        "url": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8"
+    },
+    {
+        "name": "Comedy Central",
+        "url": "http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8"
+    },
+    {
+        "name": "Comedy Central Latin America (1080p)",
+        "url": "http://181.119.93.83:8000/play/a1di/index.m3u8"
+    },
+    {
+        "name": "Congreso de los Diputados 1 (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    },
+    {
+        "name": "Congreso de los Diputados 2 (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
+    },
+    {
+        "name": "Congreso de los Diputados 3 (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    },
+    {
+        "name": "Congreso de los Diputados 4 (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8"
+    },
+    {
+        "name": "Congreso de los Diputados 5 (360p) [Not 24/7]",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
+    },
+    {
+        "name": "Cooperativa TV",
+        "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Costa Noroeste TV (1080p) [Not 24/7]",
+        "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+    },
+    {
+        "name": "Crimen & Historia (720p)",
+        "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8"
+    },
+    {
+        "name": "Curro Jiménez",
+        "url": "https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8"
+    },
+    {
+        "name": "De Pelicula Latin America",
+        "url": "http://181.119.93.83:8000/play/a1jw/index.m3u8"
+    },
+    {
+        "name": "De Película (MX)",
+        "url": "http://181.119.93.83:8000/play/a1jw/index.m3u8"
+    },
+    {
+        "name": "Detective Conan",
+        "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8"
+    },
+    {
+        "name": "Diez TV Las Villas (1080p)",
+        "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+    },
+    {
+        "name": "Diez TV Úbeda (1080p)",
+        "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+    },
+    {
+        "name": "Disney Channel",
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
+    },
+    {
+        "name": "Disney Channel Latin America (1080p)",
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8"
+    },
+    {
+        "name": "Disney Jr. Latin America (1080p)",
+        "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
+    },
+    {
+        "name": "Disney Jr. Latin America North HD (1080p)",
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+    },
+    {
+        "name": "Distrito Comedia (MX)",
+        "url": "http://177.234.249.135:8888/DistritoComedia/index.m3u8"
+    },
+    {
+        "name": "Distrito TV (1080p)",
+        "url": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+    },
+    {
+        "name": "Docu.",
+        "url": "http://45.162.193.35/DOCU/index.m3u8"
+    },
+    {
+        "name": "DreamWorks Channel Latin America (1080p)",
+        "url": "http://138.121.15.230:9002/DREAMWORKS/index.m3u8"
+    },
+    {
+        "name": "Durangaldeko Telebista (576p)",
+        "url": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+    },
+    {
+        "name": "DW Español",
+        "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
+    },
+    {
+        "name": "E! Latin America Mexico (720p)",
+        "url": "http://72.1.184.5:8089/play/a05d/index.m3u8"
+    },
+    {
+        "name": "El 33 Originals (1080p) [Not 24/7]",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8"
+    },
+    {
+        "name": "El Comisario",
+        "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8"
+    },
+    {
+        "name": "El encantador de perros",
+        "url": "https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8"
+    },
+    {
+        "name": "El Mueble (720p)",
+        "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8"
+    },
+    {
+        "name": "Elche 7 TV (576p)",
+        "url": "https://elche7tv.gestec-video.com/hls/canal2.m3u8"
+    },
+    {
+        "name": "Empeños a lo bestia",
+        "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8"
+    },
+    {
+        "name": "Empordà TV (1080p)",
+        "url": "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    },
+    {
+        "name": "En el punto de mira",
+        "url": "https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8"
+    },
+    {
+        "name": "ESPN (1080p)",
+        "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+    },
+    {
+        "name": "ESPN 4",
+        "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+    },
+    {
+        "name": "ESPN Deportes (720p)",
+        "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8"
+    },
+    {
+        "name": "Esport3 (1080p) [Not 24/7]",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+    },
+    {
+        "name": "Estepona Televisión (720p)",
+        "url": "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
+    },
+    {
+        "name": "EsTuTele (720p)",
+        "url": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    },
+    {
+        "name": "ETB 1 (1080p) [Geo-blocked]",
+        "url": "https://cdn1.etbon.eus/etb1/index.m3u8"
+    },
+    {
+        "name": "ETB 2 (1080p) [Geo-blocked]",
+        "url": "https://cdn1.etbon.eus/etb2/index.m3u8"
+    },
+    {
+        "name": "ETB Events 1 (1080p)",
+        "url": "https://cdn1.etbon.eus/oc1/index.m3u8"
+    },
+    {
+        "name": "ETB1 On (1080p)",
+        "url": "https://cdn1.etbon.eus/etb1on/index.m3u8"
+    },
+    {
+        "name": "ETB2 On (1080p)",
+        "url": "https://cdn1.etbon.eus/etb2on/index.m3u8"
+    },
+    {
+        "name": "EWTN Espana",
+        "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8"
+    },
+    {
+        "name": "EWTN Spain & Latin America (720p)",
+        "url": "http://138.186.23.7:8082/EWTN/index.m3u8"
+    },
+    {
+        "name": "Fibwi (1080p) [Not 24/7]",
+        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
+    },
+    {
+        "name": "FIFA+ Spain (720p)",
+        "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
+    },
+    {
+        "name": "France 24 Español (1080p)",
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
+    },
+    {
+        "name": "Fuerteventura TV (1080p)",
+        "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8"
+    },
+    {
+        "name": "FX",
+        "url": "http://138.121.15.230:9002/FX/index.m3u8"
+    },
+    {
+        "name": "Galicia TV Europa (720p)",
+        "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8"
+    },
+    {
+        "name": "GLORY Kickboxing (720p)",
+        "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
+    },
+    {
+        "name": "Goiena Eus (720p)",
+        "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
+    },
+    {
+        "name": "Gol (720p)",
+        "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8"
+    },
+    {
+        "name": "Golden Edge",
+        "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8"
+    },
+    {
+        "name": "GolTV Latin America (720p)",
+        "url": "http://177.234.249.178:8888/GOLTV/index.m3u8"
+    },
+    {
+        "name": "Guada TV (720p) [Not 24/7]",
+        "url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    },
+    {
+        "name": "Hamaika Telebista (1080p)",
+        "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
+    },
+    {
+        "name": "Historia (1080p)",
+        "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+    },
+    {
+        "name": "Historia y Vida (720p)",
+        "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8"
+    },
+    {
+        "name": "History 2 Latin America (1080p)",
+        "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8"
+    },
+    {
+        "name": "HOLA! Play (1080p)",
+        "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+    },
+    {
+        "name": "iCarly",
+        "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8"
+    },
+    {
+        "name": "Imagen TV (MX)",
+        "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
+    },
+    {
+        "name": "Interalmeria TV (1080p)",
+        "url": "https://interalmeria.tv/directo/live.m3u8"
+    },
+    {
+        "name": "Intercomarcal TV (576p) [Not 24/7]",
+        "url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8"
+    },
+    {
+        "name": "Justicia TV (MX)",
+        "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+    },
+    {
+        "name": "KinoKazka (1080p)",
+        "url": "http://176.122.125.10:8080/KinoKazka/index.m3u8"
+    },
+    {
+        "name": "KTO (720p)",
+        "url": "http://41.205.77.102/KTO/index.m3u8"
+    },
+    {
+        "name": "La 1 (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+    },
+    {
+        "name": "La 1 Canarias (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
+    },
+    {
+        "name": "La 1 Catalunya (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
+    },
+    {
+        "name": "La 2 Canarias (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    },
+    {
+        "name": "La 2 Catalunya (720p)",
+        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    },
+    {
+        "name": "La Red",
+        "url": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8"
+    },
+    {
+        "name": "LaLiga TV",
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"
+    },
+    {
+        "name": "Lancelot TV (404p)",
+        "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+    },
+    {
+        "name": "Las Estrellas (MX)",
+        "url": "http://177.234.249.135:8888/LasEstrellas/index.m3u8"
+    },
+    {
+        "name": "Las Estrellas Latin America (1080p)",
+        "url": "http://177.234.249.135:8888/LasEstrellas/index.m3u8"
+    },
+    {
+        "name": "Las Tortugas Ninja (720p)",
+        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
+    },
+    {
+        "name": "Latina (1080p)",
+        "url": "http://45.171.108.253:8888/LATINA/index.m3u8"
+    },
+    {
+        "name": "Latina (PE)",
+        "url": "http://45.171.108.253:8888/LATINA/index.m3u8"
+    },
+    {
+        "name": "Latina Podcast (720p)",
+        "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8"
+    },
+    {
+        "name": "Lifetime Latin America (1080p)",
+        "url": "http://138.121.15.230:9002/LIFETIME/index.m3u8"
+    },
+    {
+        "name": "Lighting Lives Blessing Nations TV Latino (LLBN) (480p)",
+        "url": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
+    },
+    {
+        "name": "LiraTV (720p)",
+        "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    },
+    {
+        "name": "Logos TV Kids (720p) [Not 24/7]",
+        "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+    },
+    {
+        "name": "Los archivos del FBI",
+        "url": "https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8"
+    },
+    {
+        "name": "Los Asesinatos de Midsomer",
+        "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
+    },
+    {
+        "name": "M95 Televisión Marbella (1080p) [Not 24/7]",
+        "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+    },
+    {
+        "name": "MAX Anime (1080p)",
+        "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
+    },
+    {
+        "name": "Medium",
+        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
+    },
+    {
+        "name": "Mega",
+        "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+    },
+    {
+        "name": "Mega Cine TV (1080p)",
+        "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+    },
+    {
+        "name": "Mega TV (1080p)",
+        "url": "https://www.desde-paraguay.com/mega.m3u8"
+    },
+    {
+        "name": "Mega TV Jaen (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8"
+    },
+    {
+        "name": "MegaBox (720p) [Not 24/7]",
+        "url": "https://hdbox.chunklistv.com/live?stream=megabox"
+    },
+    {
+        "name": "MegaTV (576p)",
+        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8"
+    },
+    {
+        "name": "Megavisión TV (480p)",
+        "url": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
+    },
+    {
+        "name": "Melrose Place",
+        "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
+    },
+    {
+        "name": "Mi Extraña Obsesión",
+        "url": "https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8"
+    },
+    {
+        "name": "Mijas 3.40TV (720p)",
+        "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8"
+    },
+    {
+        "name": "Mr. Bean Anime Spain (1080p)",
+        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+    },
+    {
+        "name": "MTV Catfish TV Show (720p)",
+        "url": "https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8"
+    },
+    {
+        "name": "MTV Flow Latino (720p)",
+        "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"
+    },
+    {
+        "name": "MTV Geordies",
+        "url": "https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8"
+    },
+    {
+        "name": "MTV Jerseys",
+        "url": "https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8"
+    },
+    {
+        "name": "MTV Latin America (1080p)",
+        "url": "http://179.60.51.134:8888/MTV/index.m3u8"
+    },
+    {
+        "name": "MTV Originals",
+        "url": "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8"
+    },
+    {
+        "name": "MTV Reality (720p)",
+        "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
+    },
+    {
+        "name": "MTV Tattoo a dos",
+        "url": "https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8"
+    },
+    {
+        "name": "MTV Teen Mom (720p)",
+        "url": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8"
+    },
+    {
+        "name": "MTV Vergüenza ajena (720p)",
+        "url": "https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8"
+    },
+    {
+        "name": "Music TV Granada (1080p) [Not 24/7]",
+        "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+    },
+    {
+        "name": "MyTime movie network Spain (1080p)",
+        "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Nat Geo",
+        "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8"
+    },
+    {
+        "name": "National Geographic Latin America (1080p)",
+        "url": "http://45.162.193.35/NATGEO/index.m3u8"
+    },
+    {
+        "name": "NatureTime (1080p)",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+    },
+    {
+        "name": "NatureTime Finland (1080p)",
+        "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Negocios TV (1080p)",
+        "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+    },
+    {
+        "name": "Net TV",
+        "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
+    },
+    {
+        "name": "Nick Jr. Latin America (1080p)",
+        "url": "http://138.186.23.7:8082/NICKJR/index.m3u8"
+    },
+    {
+        "name": "NORTEvisión (1080p)",
+        "url": "http://amaru.dyndns.org:8870/0.m3u8"
+    },
+    {
+        "name": "Nova (720p)",
+        "url": "http://40.160.24.55/Nova/index.m3u8"
+    },
+    {
+        "name": "NTN24 (CO)",
+        "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8"
+    },
+    {
+        "name": "Onda 15 TV (224p)",
+        "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+    },
+    {
+        "name": "Onda Algeciras TV (576p)",
+        "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    },
+    {
+        "name": "Onda Cádiz 24h (720p)",
+        "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+    },
+    {
+        "name": "Onda Valencia (720p)",
+        "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    },
+    {
+        "name": "One Piece",
+        "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
+    },
+    {
+        "name": "Panamericana (PE)",
+        "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
+    },
+    {
+        "name": "Paramount Network de Pluto TV",
+        "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8"
+    },
+    {
+        "name": "Paramount Network Latin America (720p)",
+        "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8"
+    },
+    {
+        "name": "Pasiones Latin America (1080p)",
+        "url": "http://45.162.193.35/PASIONESHD/index.m3u8"
+    },
+    {
+        "name": "Platzi TV (1080p)",
+        "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+    },
+    {
+        "name": "Pluto TV Animales",
+        "url": "https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8"
+    },
+    {
+        "name": "Pluto TV Anime",
+        "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
+    },
+    {
+        "name": "Pluto TV Anime",
+        "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8"
+    },
+    {
+        "name": "Pluto TV Catástrofes",
+        "url": "https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Acción",
+        "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Clásico",
+        "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Comedia",
+        "url": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine de autor",
+        "url": "https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Drama",
+        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Estelar",
+        "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
+    },
+    {
+        "name": "Pluto TV Cine Romántico",
+        "url": "https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8"
+    },
+    {
+        "name": "Pluto TV Cocina",
+        "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8"
+    },
+    {
+        "name": "Pluto TV Comedia made in Spain",
+        "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8"
+    },
+    {
+        "name": "Pluto TV Comedias Románticas",
+        "url": "https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8"
+    },
+    {
+        "name": "Pluto TV Diseño",
+        "url": "https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8"
+    },
+    {
+        "name": "Pluto TV Gasolina",
+        "url": "https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8"
+    },
+    {
+        "name": "Pluto TV Gore & Slasher",
+        "url": "https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8"
+    },
+    {
+        "name": "Pluto TV Historia (720p)",
+        "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
+    },
+    {
+        "name": "Pluto TV Horror",
+        "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
+    },
+    {
+        "name": "Pluto TV Impacto",
+        "url": "https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8"
+    },
+    {
+        "name": "Pluto TV Invasión Alien",
+        "url": "https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8"
+    },
+    {
+        "name": "Pluto TV Junior (720p)",
+        "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
+    },
+    {
+        "name": "Pluto TV K-Drama",
+        "url": "https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8"
+    },
+    {
+        "name": "Pluto TV Kids Classics (720p)",
+        "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8"
+    },
+    {
+        "name": "Pluto TV Kids Spain (720p)",
+        "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+    },
+    {
+        "name": "Pluto TV Motor",
+        "url": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8"
+    },
+    {
+        "name": "Pluto TV Paranormal",
+        "url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
+    },
+    {
+        "name": "Pluto TV Psycho",
+        "url": "https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8"
+    },
+    {
+        "name": "Pluto TV Sci-Fi",
+        "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
+    },
+    {
+        "name": "Pluto TV Series criminales",
+        "url": "https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8"
+    },
+    {
+        "name": "Pluto TV Series Sci-Fi",
+        "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8"
+    },
+    {
+        "name": "Pluto TV Snooker 900 (720p)",
+        "url": "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8"
+    },
+    {
+        "name": "Pluto TV Teen (720p)",
+        "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
+    },
+    {
+        "name": "Pluto TV Telenovelas Clásicas",
+        "url": "https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8"
+    },
+    {
+        "name": "Pluto TV Thrillers",
+        "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
+    },
+    {
+        "name": "Pluto TV True Crime",
+        "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
+    },
+    {
+        "name": "Pluto TV Western",
+        "url": "https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8"
+    },
+    {
+        "name": "Pluto TV Zombies",
+        "url": "https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8"
+    },
+    {
+        "name": "Pokémon en español",
+        "url": "https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8"
+    },
+    {
+        "name": "POP World TV (720p)",
+        "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    },
+    {
+        "name": "Popular TV Murcia (1080p) [Not 24/7]",
+        "url": "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8"
+    },
+    {
+        "name": "Pucón TV",
+        "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8"
+    },
+    {
+        "name": "Punt 3 Vall Uixó (1080p)",
+        "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8"
+    },
+    {
+        "name": "Radio 3 (720p)",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
+    },
+    {
+        "name": "Radio Carnaval TV (720p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/8116/index.m3u8"
+    },
+    {
+        "name": "Rakuten TV Action Movies Spain (1080p)",
+        "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+    },
+    {
+        "name": "Rakuten TV Comedy Movies Spain (1080p)",
+        "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+    },
+    {
+        "name": "Rakuten TV Drama Movies Spain (1080p)",
+        "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+    },
+    {
+        "name": "Rakuten TV Family Movies Spain (1080p)",
+        "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+    },
+    {
+        "name": "Rakuten TV Top Movies Spain (1080p)",
+        "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+    },
+    {
+        "name": "Rakuten Viki (1080p)",
+        "url": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "Real Madrid TV English [Geo-blocked]",
+        "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
+    },
+    {
+        "name": "Realmadrid TV (720p)",
+        "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8"
+    },
+    {
+        "name": "Red Bull TV ES (1080p)",
+        "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
+    },
+    {
+        "name": "Ribera TV (576p)",
+        "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
+    },
+    {
+        "name": "RNE para todos (720p)",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
+    },
+    {
+        "name": "ROTV Valencia (720p)",
+        "url": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8"
+    },
+    {
+        "name": "RTV Marbella (720p)",
+        "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    },
+    {
+        "name": "RTV Vida (1080p)",
+        "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
+    },
+    {
+        "name": "Rugrats",
+        "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
+    },
+    {
+        "name": "Rumba TV (CO)",
+        "url": "http://45.162.193.35/RUMBATV/index.m3u8"
+    },
+    {
+        "name": "Ràdio Bocairent TV (1080p) [Not 24/7]",
+        "url": "http://185.81.77.4/BocairentTV/index.m3u8"
+    },
+    {
+        "name": "Santiago TV",
+        "url": "https://stv4.janus.cl/playlist/stream.m3u8"
+    },
+    {
+        "name": "SensaCine TV x Pluto",
+        "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8"
+    },
+    {
+        "name": "Sevilla FC TV (360p) [Not 24/7]",
+        "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    },
+    {
+        "name": "Sin Tetas No Hay Paraíso",
+        "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8"
+    },
+    {
+        "name": "Sol Música (720p)",
+        "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
+    },
+    {
+        "name": "Solidaria TV (720p)",
+        "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
+    },
+    {
+        "name": "Sony Channel",
+        "url": "http://138.121.15.230:9002/SONY/index.m3u8"
+    },
+    {
+        "name": "South Park",
+        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
+    },
+    {
+        "name": "South Park Versión Original",
+        "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8"
+    },
+    {
+        "name": "SpektraTV (720p)",
+        "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+    },
+    {
+        "name": "Star Channel",
+        "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8"
+    },
+    {
+        "name": "Star Trek: Voyager",
+        "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8"
+    },
+    {
+        "name": "Studio Universal (Latinoamérica)",
+        "url": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
+    },
+    {
+        "name": "STZ Telebista (1080p)",
+        "url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
+    },
+    {
+        "name": "Tarotéame (576p)",
+        "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
+    },
+    {
+        "name": "TBN España (576p)",
+        "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8"
+    },
+    {
+        "name": "Tele 7 (720p)",
+        "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8"
+    },
+    {
+        "name": "Tele Elx (1080p)",
+        "url": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8"
+    },
+    {
+        "name": "Tele Safor (720p) [Not 24/7]",
+        "url": "https://video.telesafor.com/hls/video.m3u8"
+    },
+    {
+        "name": "Teledeporte (720p) [Geo-blocked]",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+    },
+    {
+        "name": "Teleganés (720p)",
+        "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
+    },
+    {
+        "name": "Teletrak",
+        "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+    },
+    {
+        "name": "TeleVigo (1080p) [Not 24/7]",
+        "url": "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+    },
+    {
+        "name": "Television Canaria (576p)",
+        "url": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8"
+    },
+    {
+        "name": "Televisión Aranda (720p)",
+        "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
+    },
+    {
+        "name": "Televisión Consciente (1080p)",
+        "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8"
+    },
+    {
+        "name": "The Pet Collective",
+        "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "Tlnovelas (MX)",
+        "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8"
+    },
+    {
+        "name": "Tlnovelas Latin America (1080p)",
+        "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8"
+    },
+    {
+        "name": "TNT Novelas (1080p)",
+        "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8"
+    },
+    {
+        "name": "Trace Latina (1080p)",
+        "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8"
+    },
+    {
+        "name": "TV Artequatre (576p)",
+        "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8"
+    },
+    {
+        "name": "TV BRICS Spanish (1080p)",
+        "url": "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
+    },
+    {
+        "name": "TV Chile",
+        "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
+    },
+    {
+        "name": "TV Sabadell-Vallès (1080p)",
+        "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+    },
+    {
+        "name": "TVE Internacional Europe (576p) [Geo-blocked]",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8"
+    },
+    {
+        "name": "TVE Star (576p)",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
+    },
+    {
+        "name": "TVE Star HD (1080p)",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+    },
+    {
+        "name": "TVN (1080p)",
+        "url": "http://45.162.193.35/TVN/index.m3u8"
+    },
+    {
+        "name": "TVN3 (1080p) [Geo-blocked]",
+        "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+    },
+    {
+        "name": "TVReus (720p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/8166/index.m3u8"
+    },
+    {
+        "name": "TVU (Concepción)",
+        "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+    },
+    {
+        "name": "UChile TV",
+        "url": "https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+    },
+    {
+        "name": "UCV TV",
+        "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    },
+    {
+        "name": "Une Vinalopó (576p) [Not 24/7]",
+        "url": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8"
+    },
+    {
+        "name": "Unidad de investigación",
+        "url": "https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8"
+    },
+    {
+        "name": "Univers TV (720p)",
+        "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+    },
+    {
+        "name": "Universal TV",
+        "url": "http://181.78.192.238:8000/play/a1ro/index.m3u8"
+    },
+    {
+        "name": "Univision",
+        "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8"
+    },
+    {
+        "name": "Univision Latin America (1080p)",
+        "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8"
+    },
+    {
+        "name": "Urola Telebista (416p)",
+        "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
+    },
+    {
+        "name": "USA Network Latin America (1080p)",
+        "url": "http://138.186.23.7:8082/SYFY/index.m3u8"
+    },
+    {
+        "name": "Via X",
+        "url": "http://45.170.130.224:8000/play/a025/index.m3u8"
+    },
+    {
+        "name": "Vision 6 TV (720p)",
+        "url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8"
+    },
+    {
+        "name": "VOTV (1080p)",
+        "url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+    },
+    {
+        "name": "Wapp TV",
+        "url": "https://stream.wapptv.cl/video/index.m3u8"
+    },
+    {
+        "name": "WaterBear (1080p)",
+        "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+    },
+    {
+        "name": "XPTV US (720p)",
+        "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+    },
+    {
+        "name": "XPTV1 (720p)",
+        "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+    },
+    {
+        "name": "XPTV2 (720p)",
+        "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+    },
+    {
+        "name": "Zona Latina",
+        "url": "http://45.162.193.35/ZONALATINA/index.m3u8"
+    },
+    {
+        "name": "Zylo Cine Friki (1080p)",
+        "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+    },
+    {
+        "name": "Zylo Cine Western (1080p)",
+        "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
+    },
+    {
+        "name": "Zylo Todo Novelas (1080p)",
+        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
+    }
 ]
